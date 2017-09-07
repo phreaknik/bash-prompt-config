@@ -1,2 +1,2 @@
 # Bash prompt screenshot:
-![screenshot](screenshot1.png)
+![screenshot](screenshot.png)
